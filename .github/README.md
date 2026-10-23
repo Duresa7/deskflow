@@ -4,6 +4,11 @@
   <img alt="Deskflow" src="https://github.com/user-attachments/assets/f005b958-24df-4f4a-9bfd-4f834dae59d6">
 </picture>
 
+> [!IMPORTANT]
+>
+> This is a fork of [Deskflow](https://github.com/deskflow/deskflow) for adding custom experimental features.
+> It is not the official project. For official releases and support, use the [upstream repository](https://github.com/deskflow/deskflow).
+
 **Deskflow** is a free and open source keyboard and mouse sharing app.
 Use the keyboard, mouse, or trackpad of one computer to control nearby computers,
 and work seamlessly between them.
